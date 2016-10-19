@@ -1,6 +1,6 @@
 import unittest
 
-from highest_number_cubed import main
+from highest_number_cubed import highest_number_cubed
 
 
 class TestHighestNumberCubed(unittest.TestCase):
