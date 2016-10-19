@@ -13,3 +13,6 @@ class TestHighestNumberCubed(unittest.TestCase):
 
     def test_one(self):
         self.assertEqual(highest_number_cubed(3), 1)
+
+    def test_big(self):
+        self.assertEqual(highest_number_cubed(12000), 22)
