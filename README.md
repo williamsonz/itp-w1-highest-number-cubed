@@ -11,7 +11,7 @@ setting up and coding from a github repo to cloud9.
 
 ```python
 >>> highest_number_cubed(30)
-'3'
+3
 >>> highest_number_cubed(3)
-'1'
+1
 ```
